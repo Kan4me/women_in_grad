@@ -14,3 +14,8 @@ Here will be used open data in brazilian's universities to understand more about
 - How did quota system affect the number of women in university 
 - Gender affect the drop out rate
 - Women proportion in PHD inscriptions considering the courses with more and less women
+
+### data
+INEP. Micro Dados. http://inep.gov.br/web/guest/microdados (access in 2019)
+
+MEC. http://portal.mec.gov.br/docman/setembro-2018-pdf/97041-apresentac-a-o-censo-superior-u-ltimo/file (access in 2019)
